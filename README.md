@@ -46,3 +46,19 @@ Capsule AO
 风格化爆炸效果
 
 ![ApplicationFrameHost_3PuPHHkCRX](https://github.com/akina24a/akina24a.github.io/assets/51435834/cc094c3d-c923-478d-8335-0e9585479737)
+
+二次元人物
+
+![image](https://github.com/akina24a/TA-Test/assets/51435834/aa95c0f6-8773-4b33-9aaf-3e8e67b51788)
+
+水晶材质
+
+![image](https://github.com/akina24a/TA-Test/assets/51435834/b7422e73-cda5-451f-9a23-590a60d5c990)
+
+玻璃材质
+
+![image](https://github.com/akina24a/TA-Test/assets/51435834/1fc11807-032b-40c6-8567-cd2117f4e1be)
+
+信号干扰材质
+
+![image](https://github.com/akina24a/TA-Test/assets/51435834/cb3377cf-ecc8-41a2-8a19-77b9527f6125)
