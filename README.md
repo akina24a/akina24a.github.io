@@ -62,3 +62,8 @@ Capsule AO
 信号干扰材质
 
 ![image](https://github.com/akina24a/TA-Test/assets/51435834/cb3377cf-ecc8-41a2-8a19-77b9527f6125)
+
+OIT
+https://github.com/akina24a/akina24a.github.io/assets/51435834/6c35d929-0846-47c4-808a-cf11a99c5f80
+
+
