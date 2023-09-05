@@ -64,6 +64,8 @@ Capsule AO
 ![image](https://github.com/akina24a/TA-Test/assets/51435834/cb3377cf-ecc8-41a2-8a19-77b9527f6125)
 
 OIT
-https://github.com/akina24a/akina24a.github.io/assets/51435834/6c35d929-0846-47c4-808a-cf11a99c5f80
+![pALxxrvNcS](https://github.com/akina24a/akina24a.github.io/assets/51435834/70e62cba-a9c7-4f55-ae01-0e2f44ca49fd)
+![UWzOYCe9Em](https://github.com/akina24a/akina24a.github.io/assets/51435834/102c4ca9-3b66-4845-913d-10430b84d998)
+
 
 
