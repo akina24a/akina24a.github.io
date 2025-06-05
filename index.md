@@ -1,7 +1,15 @@
-Hello and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
+这里是已读乱回输入法的用户支持页面
+已读乱回输入法是有趣的自带语库的输入法
 
-![Image of fast.ai logo](images/logo.png)
+还在到处找犯贱文案？  复制粘贴是否让你感觉繁琐不方便
+现在有了已读乱回输入法
 
-## This is a title
+你想要的海量文案这里都有
 
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
+不仅可以逗逗你的朋友
+还拥有各种实用功能，各类好评一键完成，再也不用绞尽脑汁想20字评论拉！！！！
+![2](https://github.com/user-attachments/assets/5877d4fd-8d00-4233-90cc-0cf4e4c03c40)
+![3](https://github.com/user-attachments/assets/3203e7c0-74fa-4717-a9cc-8c5d0c1e0477)
+
+获取技术支持
+邮箱：xyq036436@163.com
